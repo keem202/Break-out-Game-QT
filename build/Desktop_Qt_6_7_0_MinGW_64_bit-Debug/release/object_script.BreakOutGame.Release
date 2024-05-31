@@ -1,0 +1,11 @@
+release/ball.o
+release/block.o
+release/gameover.o
+release/level.o
+release/main.o
+release/player.o
+release/qrc_imags.o
+release/moc_ball.o
+release/moc_block.o
+release/moc_gameover.o
+release/moc_player.o

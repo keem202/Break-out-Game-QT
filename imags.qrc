@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Player.png</file>
+        <file>Bullet.png</file>
+        <file>block.png</file>
+    </qresource>
+</RCC>
